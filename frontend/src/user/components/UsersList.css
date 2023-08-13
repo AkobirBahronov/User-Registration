@@ -1,0 +1,22 @@
+.users-list {
+  list-style: none;
+  margin: 0 auto;
+  padding: 0;
+  width: 80%;
+  max-width: 50rem;
+}
+
+.user-row {
+  display: flex;
+}
+
+.user-item,
+.header {
+  flex: 1;
+  border: 1px solid black;
+  padding: 10px;
+}
+
+.header {
+  font-weight: bold;
+}
