@@ -5,7 +5,8 @@ This MERN stack application provides a secure and user-friendly experience for m
 - User registration and login with email and password
 - Server-side validation using express-validator
 - Client-side validation using custom form-hook
-- Responsive design
+- Designed with a responsive layout that seamlessly flows across all devices
+- Integrated React Router to provide a seamless and intuitive navigation experience
 - State management using useReducer and createContext
 - Custom hooks to reuse logic
 ## Installation
@@ -16,7 +17,7 @@ To run this project, you need to have Node.js and npm installed on your machine.
 - Install the dependencies using ```npm install```
 - Start the backend server using ```npm start```
 - The backend application will listen for requests on port 5000 on localhost.
-- Navigate to the frontend folder using ```cd frontend```
+- Navigate to the frontend folder from application folder using ```cd frontend```
 - Install the dependencies using ```npm install```
 - Start the frontend server using ```npm start```
 - Open your browser and go to http://localhost:3000 to view the application
